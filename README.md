@@ -49,29 +49,31 @@ Contents
 
 # Includes:
 
-    Entity Identification
-    Entity Attribute List
-    Primary Keys (PK)
-    Foreign Keys (FK)
-    Database Constraints (NOT NULL, UNIQUE, CHECK, DEFAULT)
+* Entity Identification
+* Entity Attribute List
+* Primary Keys (PK)
+* Foreign Keys (FK)
+* Database Constraints (NOT NULL, UNIQUE, CHECK, DEFAULT)
 
 # 2. Entity_Relationship_Analysis.pdf
 
 # Includes:
 
-    Relationship Analysis
-    One-to-One (1:1)
-    One-to-Many (1:M)
-    Many-to-One (M:1)
-    Many-to-Many (M:M)
-    Cardinality Analysis
-    Relationship Summary
+* Relationship Analysis
+* One-to-One (1:1)
+* One-to-Many (1:M)
+* Many-to-One (M:1)
+* Many-to-Many (M:M)
+* Cardinality Analysis
+* Relationship Summary
 
 # Project Objective
 
-To design a structured and normalized database for an E-Commerce Order Management System by identifying entities, defining relationships, and maintaining data integrity.
+* To design a structured and normalized database for an E-Commerce Order Management System by identifying entities, defining relationships, and maintaining data integrity.
 Tools Used
-
+* Microsoft Word
+* PDF
+* GitHub
     Microsoft Word
     PDF
     GitHub
